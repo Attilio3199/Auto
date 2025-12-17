@@ -2,4 +2,8 @@
 __pycache__/
 *.pyc
 .env.local
-
+nuovi.utenti.csv
+orari.gstione_utenti.csv
+orari.dipendenti.csv
+orari.dipendenti.sql
+orari.gestione_utenti.sql
